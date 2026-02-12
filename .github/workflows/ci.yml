@@ -37,4 +37,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: joajak92/pipelione-demo:dev
+          tags: joajak92/pipelione-demo:1.0.0
